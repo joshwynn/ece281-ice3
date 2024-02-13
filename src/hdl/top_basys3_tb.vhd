@@ -11,11 +11,11 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : top_basys3_tb.vhd
---| AUTHOR(S)     : Capt Johnson
---| CREATED       : 01/30/2019 Last Modified 06/24/2020
+--| AUTHOR(S)     : Joshua Wynn
+--| CREATED       : 02/13/24
 --| DESCRIPTION   : This file implements a test bench for the full adder top level design.
 --|
---| DOCUMENTATION : None
+--| DOCUMENTATION : C3C Miller lines 71 and 72. No other resources used.
 --|
 --+----------------------------------------------------------------------------
 --|

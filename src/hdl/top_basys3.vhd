@@ -11,8 +11,8 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : top_basys3.vhd
---| AUTHOR(S)     : Capt Dan Johnson
---| CREATED       : 01/30/2019 Last Modified 06/24/2020
+--| AUTHOR(S)     : C3C Joshua Wynn
+--| CREATED       : 02/14/24
 --| DESCRIPTION   : This file implements the top level module for a BASYS 3 to create a full adder
 --|                 from two half adders.
 --|
